@@ -22,10 +22,11 @@
 
 **`Desenvolvedora Full Stack`**
 
-Tenho 23 anos e sou estudante de **Análise e Desenvolvimento de Sistemas (4º semestre)**.  
-Sou apaixonada por tecnologia, criação de interfaces e desenvolvimento de soluções que realmente fazem diferença.  
+Sou apaixonada por tecnologia e por transformar ideias em soluções funcionais. Estudo **Análise e Desenvolvimento de Sistemas** e utilizo meu tempo livre para praticar, estudar e construir projetos que fortalecem minhas habilidades no desenvolvimento web.  
 
-Atualmente construindo projetos reais, como o site institucional **RSCELL**, e buscando minha **primeira oportunidade como desenvolvedora**.
+Tenho experiência prática no desenvolvimento de interfaces e aplicações web, criando soluções funcionais desde o planejamento até a execução. Meu principal projeto real é o site institucional **RSCELL**, onde atuei em todo o processo: estruturação do front-end, responsividade, integração e boas práticas de organização de código.
+
+Além disso, venho desenvolvendo projetos de estudo aplicando **React, JavaScript, Node.js, APIs REST, MySQL, HTML e CSS**, sempre buscando melhorar minha lógica, minha escrita de código e minha forma de resolver problemas. Meu objetivo agora é conquistar minha primeira oportunidade como desenvolvedora, colocando minha experiência prática em produção e evoluindo ainda mais.
 
 ---
 
@@ -100,7 +101,7 @@ Atualmente construindo projetos reais, como o site institucional **RSCELL**, e b
     title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-plain.svg"" 
 />
 
 <img 

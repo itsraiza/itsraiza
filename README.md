@@ -101,7 +101,7 @@ Além disso, venho desenvolvendo projetos de estudo aplicando **React, JavaScrip
     title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-plain.svg"" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-plain.svg"
 />
 
 <img 
